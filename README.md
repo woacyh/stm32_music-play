@@ -1,4 +1,4 @@
-# STM32 4-Channel 8-Bit Music Player (Hero-mili) 🎵
+# STM32 4-Channel 8-Bit Music Player  🎵
 
 > 基于 STM32F103 的多通道“8-bit 风格”音乐播放器。包含完整的硬件驱动与自研 MIDI 转换工具链。
 
